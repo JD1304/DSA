@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/JD1304/DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/JD1304/DSA/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/JD1304/DSA/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/JD1304/DSA/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/JD1304/DSA/tree/master/1258-article-views-i) |
 | [1280-students-and-examinations](https://github.com/JD1304/DSA/tree/master/1280-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/JD1304/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
