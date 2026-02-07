@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/JD1304/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/JD1304/DSA/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/JD1304/DSA/tree/master/1179-reformat-department-table) |
+| [1193-monthly-transactions-i](https://github.com/JD1304/DSA/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/JD1304/DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/JD1304/DSA/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/JD1304/DSA/tree/master/1258-article-views-i) |
